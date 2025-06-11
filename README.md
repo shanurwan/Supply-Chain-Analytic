@@ -1,8 +1,7 @@
 # Beyond Logistics: Operational Intelligence in Real Time
 
 ## PROJECT OVERVIEW
-This project is a comprehensive inventory analysis solution built using Microsoft Power BI. It is designed to help Smartstock stakeholders gain deep visibility into their inventory levels, product statuses, stock performance across countries, warehouse locations, and category breakdowns. The solution includes three fully interactive dashboards: Summary, Status, and Country, all built to enhance strategic decision-making and drive inventory efficiency.
-
+This project is a comprehensive supply chain and logistics analytics solution developed using Microsoft Power BI. It provides end-to-end visibility into key operational areas including product availability,stock levels, order quantities, lead times, shipping performance, supplier reliability, production volumes, and cost distribution.The solution is designed to support strategic decision-making for stakeholders in operations, finance, and supply chain management. It features two fully interactive dashboards — Operational Overview and Logistics & Fulfilment — each built to uncover actionable insights, optimize processes, identify cost-saving opportunities, and drive efficiency across the supply chain lifecycle.
  
 ## PROJECT  OBJECTIVES
 - To monitor and visualize the overall inventory performance across multiple dimensions, including product status, country, and category.
