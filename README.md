@@ -1,5 +1,9 @@
 # Beyond Logistics: Operational Intelligence in Real Time
 
+![Image](https://github.com/user-attachments/assets/bfaaa628-4c65-42d9-a04e-50ead40a8235)
+
+![Image](https://github.com/user-attachments/assets/f4497705-1628-4c8f-8560-5f2fed3b4047)
+
 ## PROJECT OVERVIEW
 This project is a comprehensive supply chain and logistics analytics solution developed using Microsoft Power BI. It provides end-to-end visibility into key operational areas including product availability,stock levels, order quantities, lead times, shipping performance, supplier reliability, production volumes, and cost distribution.The solution is designed to support strategic decision-making for stakeholders in operations, finance, and supply chain management. It features two fully interactive dashboards — Operational Overview and Logistics & Fulfilment — each built to uncover actionable insights, optimize processes, identify cost-saving opportunities, and drive efficiency across the supply chain lifecycle.
 
