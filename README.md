@@ -139,7 +139,7 @@ All suppliers in Chennai show high inspection failure rates for cosmetics. Recom
    
 Chennai shows warehouse utilization ratios of 1.39 and 2.58 for some suppliers, indicating stock overflow. Suggest inventory redistribution to other warehouses or revisiting stocking policies.
 
-🚚 Logistics & Shipping
+### 🚚 Logistics & Shipping
 1. Re-evaluate Carrier B for Cost Optimization
    
 Carrier B shows significantly higher shipping costs without delivering proportionally better defect rates or lead times. Recommend benchmarking cost-per-delivery or exploring alternate providers.
